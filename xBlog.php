@@ -1,8 +1,8 @@
 <?php
 /**
- * @name Captain's Blog
+ * @name Blog
  * @desc Keep Traffic informed by Blogging Day-to-Day Articles
- * @version v1.1|11.10.30@13.57
+ * @version v1.1.1
  * @author i@xtiv.net
  * @icon Diary.png
  * @mini book
