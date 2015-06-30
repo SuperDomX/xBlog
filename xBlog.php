@@ -1,11 +1,11 @@
 <?php
 /**
- * @name Blog
+ * @name Posts
  * @desc Keep Traffic informed by Blogging Day-to-Day Articles
  * @version v1.1.1
  * @author i@xtiv.net
  * @icon Diary.png
- * @mini book
+ * @mini pencil
  * @see cronos
  * @link blog
  * @todo
