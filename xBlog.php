@@ -65,6 +65,10 @@
 			}
 		}
 
+    function create(){
+    
+    }
+
 		function read(){
 			$q = $this->q();
 			$count = $q->Select('COUNT(id)','Blog');
