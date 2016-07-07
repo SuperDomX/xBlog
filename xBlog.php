@@ -6,7 +6,7 @@
  * @author i@xtiv.net
  * @icon Diary.png
  * @mini pencil
- * @see cronos
+ * @see copy 
  * @link blog
 
  * @todo
