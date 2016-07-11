@@ -2,7 +2,7 @@
 /**
  * @name    News
  * @desc    Keep Traffic informed by Blogging Day-to-Day Articles
- * @version v0.1
+ * @version v0.1(160710)
  * @author  @xopherdeep
  * @icon    Diary.png
  * @mini    newspaper-o 
